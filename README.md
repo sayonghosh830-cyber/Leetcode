@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 ## Dynamic Programming
 |  |
@@ -24,5 +25,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
