@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
