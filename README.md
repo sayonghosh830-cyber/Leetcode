@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -35,6 +36,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -67,6 +70,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 ## Matrix
 |  |
