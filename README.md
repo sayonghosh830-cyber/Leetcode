@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -48,6 +49,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
