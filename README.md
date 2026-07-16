@@ -15,12 +15,14 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Matrix
 |  |
 | ------- |
