@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0136-single-number) |
@@ -41,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0191-number-of-1-bits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
