@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
