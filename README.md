@@ -21,6 +21,7 @@
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
+| [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
