@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Stack
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
