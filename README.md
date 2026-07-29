@@ -102,6 +102,7 @@
 | [0009-palindrome-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0507-perfect-number) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Sliding Window
 |  |
@@ -140,9 +141,11 @@
 ## Number Theory
 |  |
 | ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
