@@ -57,6 +57,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0038-count-and-say) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
