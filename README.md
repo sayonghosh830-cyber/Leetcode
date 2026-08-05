@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0507-perfect-number) |
@@ -126,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
