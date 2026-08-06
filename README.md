@@ -31,6 +31,7 @@
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Dynamic Programming
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Enumeration
 |  |
