@@ -27,6 +27,7 @@
 | [0303-range-sum-query-immutable](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
@@ -69,6 +70,7 @@
 | [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
