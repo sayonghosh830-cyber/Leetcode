@@ -36,6 +36,7 @@
 | [1929-concatenation-of-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
