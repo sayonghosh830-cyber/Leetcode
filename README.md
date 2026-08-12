@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -92,6 +94,7 @@
 | [0031-next-permutation](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
