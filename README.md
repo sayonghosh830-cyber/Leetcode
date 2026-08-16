@@ -21,6 +21,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0204-count-primes) |
@@ -47,6 +48,7 @@
 | [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
