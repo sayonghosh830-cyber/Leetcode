@@ -25,6 +25,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -168,6 +171,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Trie
 |  |
@@ -201,4 +205,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
