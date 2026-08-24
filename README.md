@@ -130,6 +130,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -152,6 +153,7 @@
 | [0189-rotate-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0507-perfect-number) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
