@@ -31,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -128,6 +129,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -173,6 +175,7 @@
 | [0048-rotate-image](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
@@ -187,6 +190,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
 |  |
 | ------- |
