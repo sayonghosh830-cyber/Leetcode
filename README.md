@@ -39,6 +39,7 @@
 | [0704-binary-search](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0724-find-pivot-index) |
+| [0861-score-after-flipping-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sorting
@@ -146,6 +148,7 @@
 | [0191-number-of-1-bits](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0861-score-after-flipping-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Math
 |  |
@@ -176,6 +179,7 @@
 | [0054-spiral-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0861-score-after-flipping-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [2614-prime-in-diagonal](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Stack
 |  |
