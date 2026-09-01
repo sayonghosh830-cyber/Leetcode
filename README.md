@@ -78,6 +78,7 @@
 | [0088-merge-sorted-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -88,6 +89,7 @@
 | [0022-generate-parentheses](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0242-valid-anagram) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@
 | [0001-two-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
