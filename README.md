@@ -42,6 +42,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [0905-sort-array-by-parity](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1109-corporate-flight-bookings](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -80,6 +81,7 @@
 | [0217-contains-duplicate](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1402-reducing-dishes](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## String
@@ -128,6 +130,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0905-sort-array-by-parity](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
