@@ -248,4 +248,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sayonghosh830-cyber/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
